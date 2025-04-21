@@ -87,4 +87,4 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 ### License
 
-MIT License
+[MIT License](/LICENSE)
